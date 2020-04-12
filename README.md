@@ -1,6 +1,6 @@
 # Vagrant file for VM setup
 
-## steps to setup VM on window
+## Steps to setup Virtual Machine
 
 - install virtual box
 - install vagrant 
