@@ -6,7 +6,9 @@
 - install vagrant 
 - cd to folder containing Vagrantfile
 - run below command 
-	vagrant up
+```
+vagrant up
+```
 
 ## vagrant commands
 - vagrant up
