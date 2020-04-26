@@ -80,8 +80,8 @@ Vagrant.configure("2") do |config|
           node.vm.hostname="ubuntuvm0#{i}"
           node.vm.provider "virtualbox" do |vb|
             vb.name="ubuntuvm0#{i}"
-            vb.memory =1024
-            vb.cpus=1
+            vb.memory =2048
+            vb.cpus=2
           end
        end
    end
