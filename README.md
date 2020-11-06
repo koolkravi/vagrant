@@ -15,3 +15,4 @@ vagrant up
 - vagrant status
 - vagrant destroy
 - vagrant halt
+- vagrant ssh ubuntuvm01
